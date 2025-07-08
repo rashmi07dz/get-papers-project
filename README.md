@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # {get_papers_with_pharma_authors]
 
 ## PubMed Paper Filter CLI Tool
@@ -48,3 +49,6 @@ Run the CLI tool using `poetry run` followed by the command and your PubMed quer
 
 ```bash
 poetry run get-papers-list "your search query"
+=======
+# get-papers-project
+>>>>>>> d939db298211c8e75988fc956f1274f1d29705d1
